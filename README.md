@@ -1,4 +1,4 @@
-# Agentic Safety Controller (Demo)
+# Agentic Safety Controller
 
 This project demonstrates a controller-driven agentic AI system that breaks down
 high-level goals into explicit action steps and checks each step through a safety
