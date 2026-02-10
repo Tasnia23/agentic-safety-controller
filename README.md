@@ -57,3 +57,11 @@ cells in order.
 - Language models, when used, function only as safety critics, not decision-makers  
 - The project is intended as a behavioral and safety demonstration, not a real
   file-manipulation system
+
+## Limitations
+
+- The controller relies on predefined intent patterns and does not perform full natural language understanding.
+- The safety critic may be overly conservative and can block benign actions.
+- The system is a behavioral demonstration and does not execute real file operations.
+- Results are illustrative and not evaluated against large-scale benchmarks.
+
